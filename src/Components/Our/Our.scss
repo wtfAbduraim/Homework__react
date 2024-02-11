@@ -1,0 +1,21 @@
+.our {
+  .container {
+    margin-top: 100px;
+    text-align: center;
+  }
+
+  &__list {
+    margin-top: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+  }
+
+  &__heading {
+    font-family: "Mulish";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+    color: #3D3D3F;
+  }
+}
